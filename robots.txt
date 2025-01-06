@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://mehdi.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://mehdivatanzadeh.github.io/mehdi/sitemap.xml
